@@ -1,6 +1,0 @@
-C:/Users/naifa/Documents/Projects/C++/libs/NBEngine/build/CMakeFiles/NBWindow.dir
-C:/Users/naifa/Documents/Projects/C++/libs/NBEngine/build/CMakeFiles/NBEvents.dir
-C:/Users/naifa/Documents/Projects/C++/libs/NBEngine/build/CMakeFiles/package.dir
-C:/Users/naifa/Documents/Projects/C++/libs/NBEngine/build/CMakeFiles/package_source.dir
-C:/Users/naifa/Documents/Projects/C++/libs/NBEngine/build/CMakeFiles/edit_cache.dir
-C:/Users/naifa/Documents/Projects/C++/libs/NBEngine/build/CMakeFiles/rebuild_cache.dir
