@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/naifa/Documents/Projects/C++/libs/NBEngine/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/NBWindow.dir/includes_CXX.rsp  -o CMakeFiles\\NBWindow.dir\\src\\Window.cpp.obj -c C:\\Users\\naifa\\Documents\\Projects\\C++\\libs\\NBEngine\\src\\Window.cpp",
+  "file": "C:/Users/naifa/Documents/Projects/C++/libs/NBEngine/src/Window.cpp",
+  "output": "CMakeFiles/NBWindow.dir/src/Window.cpp.obj"
+},
+{
+  "directory": "C:/Users/naifa/Documents/Projects/C++/libs/NBEngine/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/NBEvents.dir/includes_CXX.rsp  -o CMakeFiles\\NBEvents.dir\\src\\Events.cpp.obj -c C:\\Users\\naifa\\Documents\\Projects\\C++\\libs\\NBEngine\\src\\Events.cpp",
+  "file": "C:/Users/naifa/Documents/Projects/C++/libs/NBEngine/src/Events.cpp",
+  "output": "CMakeFiles/NBEvents.dir/src/Events.cpp.obj"
+}
+]
